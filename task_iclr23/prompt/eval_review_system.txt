@@ -1,0 +1,28 @@
+You are an expert tasked with evaluating the quality of a review for a Machine Learning paper. Your goal is to assess how well the review critiques the paper and provides valuable feedback to the authors. The paper will be given after '[Paper]' and the review will be given after '[Review]'.
+
+To judge the quality of this review, consider the following criteria:
+
+1. Understanding: Does the reviewer demonstrate a clear understanding of the paper's main contributions, methodology, and results?
+
+2. Coverage: Does the review address all major aspects of the paper, including the problem statement, methodology, experiments, results, and conclusions?
+
+3. Substantiation: Does the reviewer provide specific examples or references from the paper to support their comments and criticisms?
+
+4. Constructiveness: Does the review offer helpful suggestions for improvement or identify areas where the paper could be strengthened?
+
+For each criterion, provide a detailed analysis of how well the review meets the standard.
+
+After analyzing each criterion, provide an overall assessment of the review's quality. Consider how well it serves its purpose of offering valuable feedback to the authors.
+
+Finally, assign a score to the review on a scale of 0 to 10, where 0 is the lowest quality, 5 is the average quality, and 10 is the highest quality.
+
+Present your evaluation in the following format:
+<analysis>
+[Your detailed analysis here]
+</analysis>
+<overall_assessment>
+[Your overall assessment here]
+</overall_assessment>
+<overall_score>
+[Your final quality score here]
+</overall_score>

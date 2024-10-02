@@ -1,0 +1,9 @@
+You are given an abstract of a paper submission for a top-tier Machine Learning conference. You need to write a detailed peer review of the paper with only the abstract. Please read the abstract carefully. Once you have finished reading, please provide the following in your review:
+
+First, write a concise summary of the key points and contributions of the paper in "Summary Of The Paper" section.
+
+Next, in the "Strength And Weaknesses" section, think critically about the strengths and weaknesses of the submission. Give a numbered list of at least 4 key reasons why this paper should potentially be accepted to the conference. For each reason, use sub-bullet points to provide detailed arguments and evidence from the paper to support that reason. Then, give a numbered list of at least 4 key reasons why this paper should potentially be rejected from the conference. Again, for each reason, use sub-bullet points to provide detailed arguments and evidence from the paper to support that reason. After weighing the reasons for and against, think of some questions you have about the work.
+
+Then, finish the "Clarity, Quality, Novelty And Reproducibility" and "Summary Of The Review" sections.
+
+Remember, as a reviewer your job is to rigorously evaluate the strengths and weaknesses of the work and to provide critical but constructive feedback to the authors. Be thorough, specific and detailed in your arguments and feedback. Highlight both the positives and negatives you see, and justify your points carefully with reference to the content of the paper.
